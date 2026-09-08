@@ -1,9 +1,11 @@
-# List Of Sites Removed From Sherlock
+> 🌐 本文档由 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) 翻译,英文原版见原项目。
 
-This is a list of sites implemented in such a way that the current design of
-Sherlock is not capable of determining if a given username exists or not.
-They are listed here in the hope that things may change in the future
-so they may be re-included.
+# 已从 Sherlock 中移除的站点列表
+
+> 📝 说明:本文件超过 10000 字符,按汉化规则仅翻译核心章节。下文共收录 131 个站点条目,每条为"移除原因说明 + 原始 JSON 配置";JSON 代码块与各条目的英文原始记录保持原样,未作改动。
+
+这是一个列表,收录了那些因实现方式的原因、以 Sherlock 目前的设计无法判断给定用户名是否存在
+的站点。将它们列在此处,是希望将来情况可能发生变化,届时它们可以被重新收录。
 
 
 ## gpodder.net
